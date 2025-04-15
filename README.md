@@ -31,7 +31,9 @@ This project is a Flask-based RESTful API that manages episodes, guests, and gue
 
 git clone `git@github.com:sandramisigo/Lateshow-Flask-API.git`
 cd lateshow
+
 2. Create a Virtual Environment
+
 3. Install Dependencies
 pip install Flask Flask-SQLAlchemy Flask-Migrate
 
