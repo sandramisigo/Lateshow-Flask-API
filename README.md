@@ -26,7 +26,7 @@ This project is a Flask-based RESTful API that manages episodes, guests, and gue
 
 ## Setup Instructions
 
-### 1. Clone the Repository
+1. Clone the Repository
 
 
 git clone `git@github.com:sandramisigo/Lateshow-Flask-API.git`
